@@ -6,3 +6,4 @@
 
 ## 목차
 1. [Linked List](https://github.com/LRTK-CODER/Python_DataStructure_Study/blob/main/LinkedList.ipynb)
+2. [Double Linked List](https://github.com/LRTK-CODER/Python_DataStructure_Study/blob/main/DoubleLinkedList.ipynb)
